@@ -21,6 +21,14 @@ of distance within a single vertical geometric plane (e.g., y-z).
 
 ### Screenshot
 
+#### Spacial Mapping Device
+Consists of MSP432E401Y Microcontroller,  VL53L1X Time of Flight (ToF) sensor, Stepper Motor, and Active Low Push Button
+![Device](./images/Device.jpg)
+
+#### Hallway Reconstruction
+Using Python OpenGL library to reconstruct data
+
+![HallwayReconstruction](./images/HallwayReconstruction.png)
 
 ## My process
 
