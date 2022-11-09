@@ -1,4 +1,4 @@
-# Spacial_Mapping_System
+# Spacial Mapping System
 
 ## Table of contents
 
