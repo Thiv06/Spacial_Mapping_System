@@ -141,7 +141,7 @@ void spin_CounterClockwise()						//function to spin clockwise 45 degrees
 }
 ```
 
-#### Extracting distance measurements
+#### Extracting distance measurements via I2C and UART Communication
 ```C
 
 	// Get the Distance Measures 8 times
