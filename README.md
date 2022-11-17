@@ -56,7 +56,8 @@ taken with there being 3 scans in total
 - SimpleLink MSP432E401Y Microcontroller
 - Stepper Motor, Time of Flight Sensor, Breadboard, Resistors
 
-### Code snippets
+### Code Snippets
+
 #### Port Inialization for Push Button
 ```C
 void PortJ_Init(void){ //ON-BOARD PSUH BUTTON
